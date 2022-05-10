@@ -2,7 +2,7 @@ curie_map:
   CO_320: https://cropontology.org/rdf/CO_320_
   TO: http://purl.obolibrary.org/obo/TO_
   skos: http://www.w3.org/2004/02/skos/core
-license: https://creativecommons.org/publicdomain/zero/1.0/
+license: https://creativecommons.org/licenses/by/4.0/
 mapping_provider: 
 mapping_set_group: rice_mappings
 mapping_set_id: co_320_to
